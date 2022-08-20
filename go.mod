@@ -1,4 +1,4 @@
-module github.com/lestrrat-go/msgpack
+module github.com/sthorne/msgpack
 
 go 1.12
 
